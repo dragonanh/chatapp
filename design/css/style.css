@@ -1,0 +1,22 @@
+.column.sidebar{
+    height: 100vh;
+    background-color: #ededed;
+    padding: 0
+}
+.user-avatar{
+
+}
+.level.sidebar-header{
+    margin-bottom: 0;
+    padding: 10px
+}
+.level.sidebar-header .level-left{
+    padding: 10px 10px 0 20px;
+}
+.sidebar-search{
+    padding: 10px 15px 10px 40px;
+    background-color: #f6f6f6;
+}
+.sidebar-search input{
+    border: none;
+}
